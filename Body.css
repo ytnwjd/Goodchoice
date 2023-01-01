@@ -1,0 +1,14 @@
+.Body_Container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.Body_Container img {
+    display: flex;
+    height: 100%;
+    margin-top: 130px;
+    justify-content: center;
+    align-items: center;
+}

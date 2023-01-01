@@ -1,0 +1,72 @@
+.recommend {
+    display: flex;
+    width: 1520px;
+    margin: auto;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.recommend h2 {
+    display: flex;
+    margin-left: 40px;
+    margin-top: 120px;
+    font-size: 25px;
+    font-weight: bolder;
+    color: rgba(0,0,0,0.87);
+}
+
+
+.Ad_Container { /*ul 태그 부분*/
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+    /* margin-top: 40px; */
+    margin-left: 40px;
+    align-items: center;
+    padding: 0;
+}
+
+
+/* .Ad_Container li {
+    border: 1px solid rgba(0,0,0,0.08);
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+} */
+
+
+.Ad_Container li {
+    border: 1px solid rgba(0,0,0,0.08);
+    display: flex;
+}
+
+
+.Ad_Container img {
+    height: 162px;
+    width: 162px;
+}
+
+.Ad_Container div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin-left: 50px;
+}
+
+.Ad_Container strong {
+    font-size: 20px;
+    line-height: 2;
+    /* margin-bottom: 10px;
+    margin-top: 10px; */
+    font-weight: normal;
+    color: rgba(0,121,107,1);
+}
+
+
+.Ad_Container span {
+    font-size: 14px;
+    color: #0000008F;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}

@@ -1,0 +1,32 @@
+.Icon_Container {
+    display: flex;
+    width: 1520px;
+    margin: auto;
+    margin-top: 45PX;
+    margin-bottom: 20px;
+    padding: 0;
+}
+
+
+.Icon_Container li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+    margin: auto;
+    text-align: center;
+}
+
+
+.Icon_Container img {
+    width: 72px;
+    height: 72px;
+}
+
+
+.Icon_Container span {
+    display: inline-block;
+    padding-top: 8px;
+    font-size: 20px;
+    color: #0000008F;
+}

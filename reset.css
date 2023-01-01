@@ -1,0 +1,19 @@
+ul {
+  list-style: none;
+}
+
+  
+li {
+    cursor: pointer;
+    list-style: none;
+}
+
+
+head
+,body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box; /*박스의 크기를 어떤 것을 기준으로 계산할지 */
+  font-family: 'Pretendard-Light','AppleSDGothicNeoR', '맑은 고딕', '맑은고딕', 'Malgun Gothic', sans-serif;
+}
