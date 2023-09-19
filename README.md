@@ -1,4 +1,4 @@
-# Goodchoice
+# Goodchoice CloncCoding
 ## 2022 Do-iT! HTML&CSS 스터디 과제
 
 ---
